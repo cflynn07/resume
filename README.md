@@ -268,7 +268,7 @@ Technical Knowledge
 
 Education
 ---------
-##### Northeastern University  
+##### Northeastern University
 Computer Science, Business, Entrepreneurship  
 2008 - 2013  
 
