@@ -102,6 +102,8 @@ Developed/tested software (‘TimeCatcher’) for Android OS using Eclipse and J
 Developed product experience mockups for customer usability-testing using
 HTML5, CSS3, Javascript and PHP
 ```
+https://github.com/cflynn07/resume/raw/master/casey_manager_evaluation.pdf  
+"We highly recommend Casey as a SW Engineer to any employer"
 
 Technical Knowledge
 -------------------
