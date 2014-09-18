@@ -13,10 +13,19 @@ Work Experience
 **Software Engineer** @ Runnable  
 San Francisco, CA  
 January 2014 - Present  
+```
+Develop functionality of a software platform that gives developers
+instantious access to containerized environments to test and demo
+software.
+```
 
 **Software Engineer** @ Rakuten Loyalty  
 Boston, MA  
 September 2013 - January 2014
+```
+Developed features for customer-loyalty rewards management sytem primarily
+using NodeJS, MongoDB, and numerous 3rd party affiliate program APIs.
+```
 
 **Co-Founder / Chief Software Architect** @ Cobar Systems  
 Boston, MA  
