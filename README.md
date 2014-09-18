@@ -88,7 +88,20 @@ Perform database schema management on MySQL database of RealAdventures.com
 **Software Engineering Intern** @ Intuit  
 San Diego, CA  
 July 2010 - January 2011  
+```
+Developed/tested software (‘SnapTax’ and ‘ItsDeductible') for iPhone/iOS 
+using Xcode and Objective-C
 
+Integrated ‘SnapTax’ with Facebook using Facebook’s APIs
+
+Performed programmatic image-analysis for OCR (Optical Character Recognition)
+feature of ‘SnapTax’
+
+Developed/tested software (‘TimeCatcher’) for Android OS using Eclipse and Java
+
+Developed product experience mockups for customer usability-testing using
+HTML5, CSS3, Javascript and PHP
+```
 
 Technical Knowledge
 -------------------
