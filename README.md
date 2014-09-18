@@ -44,9 +44,15 @@ be cross-platform and browser compatible, feature real-time communication, and
 be highly extensible/maintainable by developers.
 ```
 
-**Co-Founder / Chief Software Architect** @ VibeCompass  
+**Co-Founder / Chief Software Architect** @ ClubbingOwl  
 Boston, MA  
 December 2011 - August 2013
+```
+ClubbingOwl is a multi-platform, multi-lingual venue and promotional team
+management system. The system integrates directly with the Facebook API to
+give users trackable client data and viral exposure opportunities on Facebook.
+```
+http://solutions.clubbingowl.com
 
 **Software Engineer** @ messageAMP  
 Boston, MA  
