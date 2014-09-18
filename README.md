@@ -14,11 +14,9 @@ Work Experience
 San Francisco, CA  
 January 2014 - Present  
 
-
 **Software Engineer** @ Rakuten Loyalty  
 Boston, MA  
 September 2013 - January 2014
-
 
 **Co-Founder / Chief Software Architect** @ Cobar Systems  
 Boston, MA  
@@ -47,7 +45,6 @@ be cross-platform and browser compatible, feature real-time communication, and
 be highly extensible/maintainable by developers.
 ```
 
-
 **Co-Founder / Chief Software Architect** @ ClubbingOwl  
 Boston, MA  
 December 2011 - August 2013  
@@ -58,7 +55,7 @@ management system. The system integrates directly with the Facebook API to
 give users trackable client data and viral exposure opportunities on Facebook.
 ```
 http://solutions.clubbingowl.com  
-
+http://blog.dotcloud.com/tag/clubbing-owl
 
 **Software Engineer** @ messageAMP  
 Boston, MA  
@@ -87,7 +84,6 @@ PHP, Javascript
 
 Perform database schema management on MySQL database of RealAdventures.com
 ```
-
 
 **Software Engineering Intern** @ Intuit  
 San Diego, CA  
