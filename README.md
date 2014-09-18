@@ -6,6 +6,7 @@
  - https://www.github.com/cflynn07
  - http://stackoverflow.com/users/480807/casey-flynn
 
+
 Work Experience
 ---------------
 
@@ -13,9 +14,11 @@ Work Experience
 San Francisco, CA  
 January 2014 - Present  
 
+
 **Software Engineer** @ Rakuten Loyalty  
 Boston, MA  
 September 2013 - January 2014
+
 
 **Co-Founder / Chief Software Architect** @ Cobar Systems  
 Boston, MA  
@@ -44,6 +47,7 @@ be cross-platform and browser compatible, feature real-time communication, and
 be highly extensible/maintainable by developers.
 ```
 
+
 **Co-Founder / Chief Software Architect** @ ClubbingOwl  
 Boston, MA  
 December 2011 - August 2013  
@@ -53,19 +57,27 @@ ClubbingOwl is a multi-platform, multi-lingual venue and promotional team
 management system. The system integrates directly with the Facebook API to
 give users trackable client data and viral exposure opportunities on Facebook.
 ```
-http://solutions.clubbingowl.com
+http://solutions.clubbingowl.com  
+
 
 **Software Engineer** @ messageAMP  
 Boston, MA  
 May 2011 - November 2011
+```
+Design, implement, and maintain scalable and extensible database driven web
+applications using advanced web development techniques such as load balancing,
+caching (numerous types), worker-servers, CDNs, etc.
+```
 
 **Software Engineer** @ RealAdventures  
 Boston, MA  
-January 2011 - June 2011
+January 2011 - June 2011  
+
 
 **Software Engineering Intern** @ Intuit  
 San Diego, CA  
 July 2010 - January 2011  
+
 
 Technical Knowledge
 -------------------
@@ -218,11 +230,13 @@ Technical Knowledge
  - crontab
  - Docker (containers)
 
+
 Education
 ---------
 ##### Northeastern University  
 Computer Science, Business, Entrepreneurship  
 2008 - 2013  
+
 
 Interests
 ---------
