@@ -72,6 +72,21 @@ caching (numerous types), worker-servers, CDNs, etc.
 **Software Engineer** @ RealAdventures  
 Boston, MA  
 January 2011 - June 2011  
+```
+Develop and test new features and views of RealAdventures.com using PHP5,
+SQL, HTML4/5, CSS2/3, Javascript, AJAX, Google Maps API, PayPal APIs, and
+Facebook APIs
+
+Developed map-feature of RealAdventures.com to give advertisers ability 
+to create and display a map of their listing and relevant POIs using Google 
+Maps API, Javascript, AJAX, MySQL/SQL, PHP, HTML, CSS
+
+Developed web-application to automate payments of RealAdventures.com 
+affiliates using PayPal Adaptive Payments API, PayPal PHP SDK, MySQL/SQL,
+PHP, Javascript
+
+Perform database schema management on MySQL database of RealAdventures.com
+```
 
 
 **Software Engineering Intern** @ Intuit  
