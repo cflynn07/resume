@@ -15,7 +15,7 @@ San Francisco, CA
 January 2014 - Present  
 ```
 Develop functionality of a software platform that gives developers
-instantious access to containerized environments to test and demo
+instantious access to containerized sandboxes to test and demo
 software.
 ```
 
