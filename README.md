@@ -117,6 +117,7 @@ https://github.com/cflynn07/resume/raw/master/casey_manager_evaluation.pdf
 Technical Knowledge
 -------------------
 ##### Languages
+ - Go
  - C
  - C++
  - Objective-C
