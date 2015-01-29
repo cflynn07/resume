@@ -276,6 +276,7 @@ Computer Science, Business, Entrepreneurship
 
 Interests
 ---------
+ - Cryptocurrency, Bitcoin, Cryptography, Distributed Systems
  - Startups, Entrepreneurship
  - FinTech, Investing, Finance
  - Software and Electrical Engineering
