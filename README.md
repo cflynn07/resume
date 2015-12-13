@@ -126,7 +126,7 @@ Technical Knowledge
  - C++
  - Objective-C
  - Java
- - NodeJS
+ - Node.js
  - Ruby
  - PHP5
  - SQL
