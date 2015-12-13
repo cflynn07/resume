@@ -68,7 +68,7 @@ management system. The system integrates directly with the Facebook API to
 give users trackable client data and viral exposure opportunities on Facebook.
 ```
 http://solutions.clubbingowl.com  
-http://blog.dotcloud.com/tag/clubbing-owl
+http://www.paasmag.com/2013/03/14/clubbing-owl-helps-nightclub-owners-drive-up-a-list-clientele/
 
 **Software Engineer** @ messageAMP  
 Boston, MA  
