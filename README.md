@@ -126,20 +126,18 @@ Technical Knowledge
  - C++
  - Objective-C
  - Java
- - Node.js
+ - Node.js / JavaScript
  - Ruby
  - PHP5
  - SQL
  - HTML5
  - CSS3
- - ECMAScript(JavaScript) 1.8
  - Regular Expressions
  - PLTScheme
  - ACL2/LISP
  - CoffeeScript
  - Dart
  - Jade
- - Golang
 
 ##### Systems
  - iOS
@@ -149,6 +147,9 @@ Technical Knowledge
  - Windows / DOS
 
 ##### Software
+ - Docker
+ - Weave
+ - RabbitMQ
  - Memcached
  - Redis
  - Gearman
@@ -176,6 +177,7 @@ Technical Knowledge
  - RoR
  - SocketStream
  - AngularJS
+ - ReactJS
  - Rendr (AirBnB)
  - Bootstrap
 
