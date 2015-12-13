@@ -121,117 +121,121 @@ https://github.com/cflynn07/resume/raw/master/casey_manager_evaluation.pdf
 Technical Knowledge
 -------------------
 ##### Languages
- - Go
+ - ACL2/LISP
  - C
  - C++
- - Objective-C
- - Java
- - Node.js / JavaScript
- - Ruby
- - PHP5
- - SQL
- - HTML5
  - CSS3
- - Regular Expressions
- - PLTScheme
- - ACL2/LISP
  - CoffeeScript
  - Dart
+ - Go
+ - HTML5
  - Jade
+ - Java
+ - Node.js / JavaScript
+ - Objective-C
+ - PHP5
+ - PLTScheme
+ - Regular Expressions
+ - Ruby
+ - SQL
 
 ##### Systems
- - iOS
- - Android OS
  - Linux (Ubuntu, Debian, Raspbian) (BASH, Zsh)
  - Mac OS X
  - Windows / DOS
+ - iOS
 
 ##### Software
- - Docker
- - Weave
- - RabbitMQ
- - Memcached
- - Redis
- - Gearman
  - Apache 2
- - nginx
- - hipache
- - Varnish
- - Piwik
- - New Relic
- - Navicat
- - Cornerstone
- - svnX
- - GMP/Photoshop
  - Apple Instruments
+ - Cornerstone
+ - Docker
+ - GMP/Photoshop
+ - Gearman
+ - Memcached
  - MySQL Workbench
+ - Navicat
+ - New Relic
+ - Piwik
+ - RabbitMQ
+ - Redis
+ - Varnish
+ - Weave
+ - hipache
+ - nginx
+ - svnX
 
 ##### Frameworks
- - PHPUnit
- - ExtJS 4
- - ExpressJS
- - Flatiron
- - CodeIgniter
- - Kohana
- - CakePHP
- - RoR
- - SocketStream
  - AngularJS
+ - Bootstrap
+ - CakePHP
+ - CodeIgniter
+ - ExpressJS
+ - ExtJS 4
+ - Flatiron
+ - Kohana
+ - PHPUnit
  - ReactJS
  - Rendr (AirBnB)
- - Bootstrap
+ - RoR
+ - SocketStream
 
 ##### Libraries
- - jQuery
- - prototype
- - Doctrine ORM
  - BackboneJS
+ - Browserify
+ - Bunyan
+ - Doctrine ORM
+ - Engine.io
+ - Mongoose
  - React
  - RequireJS
- - Browserify
- - Socket.IO
- - Engine.IO
+ - Socket.io
+ - jQuery
+ - prototype
+ - tjmehta/101
 
 ##### SDKs
+ - Amazon ECS PHP SDK
  - Facebook JS SDK
  - Facebook PHP SDK
- - PayPal Adaptive Payments PHP SDK
- - Amazon ECS PHP SDK
+ - Google Maps JS SDK (v2/v3)
  - MailChimp PHP SDK
  - Mandrill PHP SDK
- - Strip JS/PHP SDKs
+ - PayPal Adaptive Payments PHP SDK
  - Pusher JS/PHP SDK
- - Google Maps JS SDK (v2/v3)
+ - Strip JS/PHP SDKs
 
 ##### APIs
+ - Amazon ECS SES API
  - FQL (Facebook Query Language)
  - Facebook Graph API
  - Facebook REST API (depricated)
+ - Github APIs
  - Google Maps API
  - Google Maps Geocoder API
- - PayPal Adaptive Payments API
- - Amazon ECS SES API
  - MailChimp REST API
+ - PayPal Adaptive Payments API
  - Piwik REST API
 
 ##### DBMS
- - MySQL / MariaDB
- - SQLite
- - MongoDB
  - CouchDB
+ - MongoDB
+ - MySQL / MariaDB
  - Percona DB
+ - RethinkDB
+ - SQLite
 
 ##### IDEs
- - VIM 7
  - Aptana
- - Xcode
- - NetBeans
- - Eclipse
- - PhpED
- - Visual Studio 2005
  - Dreamweaver
- - Textmate
+ - Eclipse
+ - NetBeans
+ - PhpED
  - Sublime Text 2
+ - Textmate
+ - VIM 7
+ - Visual Studio 2005
+ - Xcode
 
 ##### VCSs
  - Git
@@ -240,8 +244,8 @@ Technical Knowledge
 
 ##### Data Formats
  - JSON
- - YML
  - XML/SOAP
+ - YML
 
 ##### Build Tools
  - ANT
@@ -250,27 +254,28 @@ Technical Knowledge
  - Make
 
 ##### Testing Frameworks
- - jUnit
+ - Chai
+ - Karma
+ - Lab
  - Mocha
  - Protractor
- - Karma
- - Chai
+ - jUnit
 
 ##### Other
- - UML/ER Diagram Design
- - Rackspace VPS
- - Amazon Web Services (SQS, RDS, ElastiCache, EC2, S3, CloudFront)
- - Heroku PAAS
- - CloudFoundry PAAS
- - CloudFlare
- - PHPFog/AppFog
- - CloudControl PAAS
  - APC (Alternative PHP Cache)
+ - Amazon Web Services (SQS, RDS, ElastiCache, EC2, S3, CloudFront)
  - BitNami
- - dotCloud PAAS
- - Pusher
- - crontab
+ - CloudControl PAAS
+ - CloudFlare
+ - CloudFoundry PAAS
  - Docker (containers)
+ - Heroku PAAS
+ - PHPFog/AppFog
+ - Pusher
+ - Rackspace VPS
+ - UML/ER Diagram Design
+ - crontab
+ - dotCloud PAAS
 
 
 Education
@@ -283,8 +288,8 @@ Computer Science, Business, Entrepreneurship
 Interests
 ---------
  - Cryptocurrency, Bitcoin, Cryptography, Distributed Systems
- - Startups, Entrepreneurship
- - FinTech, Investing, Finance
- - Software and Electrical Engineering
  - Electric Vehicle Engineering
+ - FinTech, Investing, Finance
  - Politics, Government, Geopolitics
+ - Software and Electrical Engineering
+ - Startups, Entrepreneurship
