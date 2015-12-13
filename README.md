@@ -61,7 +61,7 @@ be highly extensible/maintainable by developers.
 **Co-Founder / Chief Software Architect** @ ClubbingOwl  
 Boston, MA  
 December 2011 - August 2013  
-![ClubbingOwl Logo](http://blog.dotcloud.com/wp-content/uploads/2013/03/ClubbingOwl_COlogo_purple-300x46.png)
+![ClubbingOwl Logo](https://raw.githubusercontent.com/cflynn07/clubbingowl/master/main/vcweb2/assets/web/images/ClubbingOwl_COlogo_purple.png)
 ```
 ClubbingOwl is a multi-platform, multi-lingual venue and promotional team
 management system. The system integrates directly with the Facebook API to
