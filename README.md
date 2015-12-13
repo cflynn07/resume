@@ -15,8 +15,11 @@ San Francisco, CA
 January 2014 - Present  
 ```
 Node.js development of RESTful services. Angular.js frontend web application development. 
-Scaling Docker, inter-container software networking setup and mangement via Weave. SOA/microservice and event driven architectures. Distributed worker system design with RabbitMQ task queing and routing.
-AWS server management. JSON formatted application logging and multi-host aggregation via rsyslog.
+Scaling Docker, inter-container software networking setup and mangement via Weave.
+SOA/microservice and event driven architectures.
+Distributed worker system design with RabbitMQ task queing and routing.
+AWS server management. 
+JSON formatted application logging and multi-host aggregation via rsyslog.
 BDD, Unit and Functional testing with high (90-100%) code coverage.
 ```
 
