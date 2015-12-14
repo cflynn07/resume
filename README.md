@@ -67,7 +67,7 @@ ClubbingOwl is a multi-platform, multi-lingual venue and promotional team
 management system. The system integrates directly with the Facebook API to
 give users trackable client data and viral exposure opportunities on Facebook.
 ```
-http://solutions.clubbingowl.com  
+https://web.archive.org/web/20130818135656/http://solutions.clubbingowl.com/ClubbingOwl_PressRelease.pdf
 http://www.paasmag.com/2013/03/14/clubbing-owl-helps-nightclub-owners-drive-up-a-list-clientele/
 
 **Software Engineer** @ messageAMP  
