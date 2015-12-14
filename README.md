@@ -149,9 +149,11 @@ Technical Knowledge
  - Apache 2
  - Apple Instruments
  - Cornerstone
+ - Datadog
  - Docker
  - GMP/Photoshop
  - Gearman
+ - Loggly
  - Memcached
  - MySQL Workbench
  - Navicat
@@ -159,6 +161,7 @@ Technical Knowledge
  - Piwik
  - RabbitMQ
  - Redis
+ - Rollbar
  - Varnish
  - Weave
  - hipache
