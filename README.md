@@ -253,7 +253,8 @@ Technical Knowledge
  - Gulp
  - Make
 
-##### Testing Frameworks
+##### Testing Frameworks / Tools
+ - Apache JMeter
  - Chai
  - Karma
  - Lab
