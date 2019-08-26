@@ -2,17 +2,28 @@
 ### Software Engineer
 
  - cflynn.us@gmail.com
- - https://twitter.com/cflynn07
+ - https://cflynn.us
  - https://www.github.com/cflynn07
  - http://stackoverflow.com/users/480807/casey-flynn
 
 
-Work Experience
----------------
+Experience
+----------
+
+**Freelance Software Engineer** @ World
+Remote
+August 2019 - Present
+
+**Software Engineer** @ InVision
+Remote
+February 2016 - February 2018
+```
+Worked with an amazing team of developers to deliver the InVision UI design prototyping system SAAS.
+```
 
 **Software Engineer** @ Runnable  
 San Francisco, CA  
-January 2014 - Present  
+January 2014 - January 2016
 ```
 Node.js development of RESTful services. Angular.js frontend web application development. 
 Scaling Docker, inter-container software networking setup and mangement via Weave.
@@ -140,6 +151,7 @@ Technical Knowledge
  - SQL
 
 ##### Systems
+ - Docker
  - Linux (Ubuntu, Debian, Raspbian) (BASH, Zsh)
  - Mac OS X
  - Windows / DOS
@@ -273,7 +285,9 @@ Technical Knowledge
  - CloudFlare
  - CloudFoundry PAAS
  - Docker (containers)
+ - Google Cloud (Kubernetes Engine)
  - Heroku PAAS
+ - Kubernetes
  - PHPFog/AppFog
  - Pusher
  - Rackspace VPS
